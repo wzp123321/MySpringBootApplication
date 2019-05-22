@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79f7987b-970a-4452-8d02-6fe0bca092d1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="596561785">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="167" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="23" />
+          <entry key="yml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="167" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="23" />
+          <entry key="YAML" value="26" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-888393187">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyAustSecondHandCarsShop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="OrderMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/OrderMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="44" column="71" lean-forward="true" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DictionaryController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/DictionaryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2185">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Myinterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/Myinterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/MyConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PasswordMD5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/md5/PasswordMD5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonWebTokenUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/JsonWebTokenUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/CarController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/CarService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/CarMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="107" column="19" selection-start-line="107" selection-start-column="19" selection-end-line="107" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>redisTemplate</find>
+      <find>opsForValue</find>
+      <find>HMAC256</find>
+      <find>/dic/list</find>
+      <find>dis</find>
+      <find>uploaddate</find>
+      <find>dic/typecode</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/exception/TokenCheckException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/AssessUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/File.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/UtilsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IDictionaryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/DictionaryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/exception/UserExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/TestUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IFileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/exception/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/FileService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/FileMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/DictionaryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/DicMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/ICarService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/CarMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/CarService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/AdminMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IAdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/AdminUserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/MyConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/CarController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/Myinterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/austshop/austshop/AustshopApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/AdminInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Dictionary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/PictureFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/ResultResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IOrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/md5/PasswordMD5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/JsonWebTokenUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/WebMvcConfigurer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-99" />
+    <option name="y" value="28" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="austshop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyAustSecondHandCarsShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyAustSecondHandCarsShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="austshop" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="console&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548661660784" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.austshop.austshop" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SpringBootWorkSpace\MyAustSecondHandCarsShop" />
+      <recent name="F:\SpringBootWorkSpace\MyAustSecondHandCarsShop\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SpringBootWorkSpace\MyAustSecondHandCarsShop\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AustshopApplication">
+    <configuration name="JwtUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.austshop.austshop.Utils.JwtUtils" />
+      <module name="MyAustSecondHandCarsShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.austshop.austshop.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AustshopApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyAustSecondHandCarsShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.austshop.austshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.austshop.austshop" />
+      <option name="MAIN_CLASS_NAME" value="com.austshop.austshop.AustshopApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AustshopApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyAustSecondHandCarsShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.austshop.austshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.austshop.austshop" />
+      <option name="MAIN_CLASS_NAME" value="com.austshop.austshop.AustshopApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AustshopApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyAustSecondHandCarsShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.austshop.austshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.austshop.austshop" />
+      <option name="MAIN_CLASS_NAME" value="com.austshop.austshop.AustshopApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AustshopApplicationTests.tt1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyAustSecondHandCarsShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.austshop.austshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.austshop.austshop" />
+      <option name="MAIN_CLASS_NAME" value="com.austshop.austshop.AustshopApplicationTests" />
+      <option name="METHOD_NAME" value="tt1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AustshopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyAustSecondHandCarsShop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.austshop.austshop.AustshopApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MyAustSecondHandCarsShop" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_MyAustSecondHandCarsShop" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54216" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Spring Boot.AustshopApplication" />
+      <item itemvalue="JUnit.AustshopApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.AustshopApplicationTests.test1" />
+      <item itemvalue="Application.JwtUtils" />
+      <item itemvalue="JUnit.AustshopApplicationTests.test" />
+      <item itemvalue="JUnit.AustshopApplicationTests.tt1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AustshopApplicationTests.tt1" />
+        <item itemvalue="JUnit.AustshopApplicationTests.test" />
+        <item itemvalue="Application.JwtUtils" />
+        <item itemvalue="JUnit.AustshopApplicationTests.test1" />
+        <item itemvalue="JUnit.AustshopApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f7987b-970a-4452-8d02-6fe0bca092d1" name="Default Changelist" comment="" />
+      <created>1548659979716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548659979716</updated>
+      <workItem from="1548659981106" duration="1828000" />
+      <workItem from="1550556081406" duration="4502000" />
+      <workItem from="1550564416367" duration="178000" />
+      <workItem from="1550564624313" duration="10000" />
+      <workItem from="1550564659562" duration="3039000" />
+      <workItem from="1550567724543" duration="986000" />
+      <workItem from="1550623649600" duration="14337000" />
+      <workItem from="1550720230682" duration="82000" />
+      <workItem from="1550732511492" duration="6284000" />
+      <workItem from="1550796722424" duration="1034000" />
+      <workItem from="1550817586397" duration="9209000" />
+      <workItem from="1550890734609" duration="5930000" />
+      <workItem from="1551057505136" duration="9102000" />
+      <workItem from="1551145258267" duration="6026000" />
+      <workItem from="1551151593452" duration="85000" />
+      <workItem from="1551151708697" duration="209000" />
+      <workItem from="1551152086674" duration="657000" />
+      <workItem from="1551159971264" duration="1463000" />
+      <workItem from="1551162886906" duration="1875000" />
+      <workItem from="1551166626821" duration="815000" />
+      <workItem from="1551167521687" duration="741000" />
+      <workItem from="1551169132593" duration="1207000" />
+      <workItem from="1551402781510" duration="12615000" />
+      <workItem from="1551430731233" duration="1523000" />
+      <workItem from="1551495308826" duration="4811000" />
+      <workItem from="1551503148763" duration="741000" />
+      <workItem from="1551660615955" duration="3766000" />
+      <workItem from="1551687403157" duration="2656000" />
+      <workItem from="1551690091117" duration="2023000" />
+      <workItem from="1551748233528" duration="10964000" />
+      <workItem from="1551853147298" duration="6342000" />
+      <workItem from="1551925857286" duration="685000" />
+      <workItem from="1551937747848" duration="7941000" />
+      <workItem from="1551949797722" duration="4095000" />
+      <workItem from="1552006352407" duration="14401000" />
+      <workItem from="1552271642494" duration="7913000" />
+      <workItem from="1552354211644" duration="1390000" />
+      <workItem from="1552360802821" duration="249000" />
+      <workItem from="1552361644191" duration="2134000" />
+      <workItem from="1552379793386" duration="1098000" />
+      <workItem from="1552441281365" duration="3000" />
+      <workItem from="1552630134469" duration="1222000" />
+      <workItem from="1552632818085" duration="733000" />
+      <workItem from="1552711664714" duration="5679000" />
+      <workItem from="1552720978899" duration="6094000" />
+      <workItem from="1552870101923" duration="2378000" />
+      <workItem from="1552873099843" duration="202000" />
+      <workItem from="1552874110873" duration="998000" />
+      <workItem from="1552876072755" duration="67000" />
+      <workItem from="1552876169692" duration="11065000" />
+      <workItem from="1552906646359" duration="7064000" />
+      <workItem from="1552958928904" duration="31193000" />
+      <workItem from="1553042960827" duration="941000" />
+      <workItem from="1553052849414" duration="2482000" />
+      <workItem from="1553147484697" duration="2236000" />
+      <workItem from="1553167146216" duration="2995000" />
+      <workItem from="1553170685181" duration="351000" />
+      <workItem from="1553171070256" duration="447000" />
+      <workItem from="1553171522737" duration="2101000" />
+      <workItem from="1553215965767" duration="701000" />
+      <workItem from="1553222909595" duration="3283000" />
+      <workItem from="1553233870844" duration="3049000" />
+      <workItem from="1553245516493" duration="1648000" />
+      <workItem from="1553308000692" duration="724000" />
+      <workItem from="1553310564273" duration="827000" />
+      <workItem from="1553325452223" duration="10486000" />
+      <workItem from="1553404297584" duration="6267000" />
+      <workItem from="1553499615135" duration="903000" />
+      <workItem from="1553501574917" duration="6997000" />
+      <workItem from="1553569260260" duration="1101000" />
+      <workItem from="1553581058454" duration="4713000" />
+      <workItem from="1553666859327" duration="196000" />
+      <workItem from="1553672447240" duration="61000" />
+      <workItem from="1553738028339" duration="778000" />
+      <workItem from="1553756700343" duration="5374000" />
+      <workItem from="1553763943838" duration="3805000" />
+      <workItem from="1553822136401" duration="1722000" />
+      <workItem from="1553825254103" duration="5312000" />
+      <workItem from="1554031960144" duration="253000" />
+      <workItem from="1554172562945" duration="640000" />
+      <workItem from="1554262373876" duration="10706000" />
+      <workItem from="1554372956613" duration="605000" />
+      <workItem from="1554527282950" duration="823000" />
+      <workItem from="1554529104637" duration="6417000" />
+      <workItem from="1554554538405" duration="795000" />
+      <workItem from="1554599514335" duration="137000" />
+      <workItem from="1554687745370" duration="15804000" />
+      <workItem from="1554775211191" duration="9946000" />
+      <workItem from="1554803395371" duration="13398000" />
+      <workItem from="1554863370843" duration="12373000" />
+      <workItem from="1554885176468" duration="9071000" />
+      <workItem from="1554948212541" duration="17592000" />
+      <workItem from="1555146908676" duration="13000" />
+      <workItem from="1555213234351" duration="26000" />
+      <workItem from="1555394116212" duration="55000" />
+      <workItem from="1555395189288" duration="410000" />
+      <workItem from="1555398083300" duration="1874000" />
+      <workItem from="1555416696518" duration="4000" />
+      <workItem from="1555424267760" duration="1169000" />
+      <workItem from="1555481306458" duration="1436000" />
+      <workItem from="1555652056172" duration="1044000" />
+      <workItem from="1555746966789" duration="228000" />
+      <workItem from="1556088749541" duration="1069000" />
+      <workItem from="1556717480795" duration="1311000" />
+      <workItem from="1556790208768" duration="26000" />
+      <workItem from="1557103420430" duration="114000" />
+      <workItem from="1557103566553" duration="14000" />
+      <workItem from="1557103593350" duration="9220000" />
+      <workItem from="1557125801269" duration="444000" />
+      <workItem from="1557127013197" duration="259000" />
+      <workItem from="1557129330398" duration="1112000" />
+      <workItem from="1557134082261" duration="1130000" />
+      <workItem from="1557188700253" duration="1977000" />
+      <workItem from="1557197414752" duration="43000" />
+      <workItem from="1557197488206" duration="434000" />
+      <workItem from="1557307524800" duration="689000" />
+      <workItem from="1557365867710" duration="3823000" />
+      <workItem from="1557388673336" duration="2484000" />
+      <workItem from="1557454630397" duration="266000" />
+      <workItem from="1557456725800" duration="656000" />
+      <workItem from="1557470480123" duration="1514000" />
+      <workItem from="1557561716342" duration="680000" />
+      <workItem from="1557831062235" duration="1314000" />
+      <workItem from="1557892150118" duration="204000" />
+      <workItem from="1557918335558" duration="297000" />
+      <workItem from="1558163963243" duration="301000" />
+      <workItem from="1558167972955" duration="609000" />
+      <workItem from="1558355872407" duration="1989000" />
+      <workItem from="1558358628642" duration="335000" />
+      <workItem from="1558444901003" duration="331000" />
+      <workItem from="1558504342649" duration="1744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 19h 07m 46s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 19h 17m 55s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 19h 19m 06s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 19h 19m 58s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 19h 21m 29s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test1 - 2019.03.19 at 20h 04m 18s.xml">
+      <configuration name="AustshopApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test - 2019.04.03 at 13h 24m 45s.xml">
+      <configuration name="AustshopApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_test - 2019.04.03 at 13h 26m 28s.xml">
+      <configuration name="AustshopApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_tt1 - 2019.05.06 at 17h 18m 23s.xml">
+      <configuration name="AustshopApplicationTests.tt1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AustshopApplicationTests_tt1 - 2019.05.06 at 17h 19m 23s.xml">
+      <configuration name="AustshopApplicationTests.tt1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="430391000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3583691" side_tool="true" weight="0.483835" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3299356" />
+      <window_info id="Structure" order="1" sideWeight="0.5005574" side_tool="true" weight="0.18240343" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.11968504" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49409872" weight="0.23857301" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6416309" weight="0.24184477" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.17650215" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.32887402" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="7" sideWeight="0.501634" side_tool="true" weight="0.18240343" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" sideWeight="0.5005574" side_tool="true" weight="0.18240343" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32998884" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.35433072" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6416309" weight="0.14330709" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5005574" side_tool="true" weight="0.18240343" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3583691" side_tool="true" weight="0.483835" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49409872" weight="0.23937008" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.32887402" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32998884" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.20493563" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3299356" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" sideWeight="0.501634" side_tool="true" weight="0.18240343" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.5005574" side_tool="true" weight="0.18240343" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.35433072" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.11968504" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="106" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyAustSecondHandCarsShop.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/JwtUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/AustshopApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/PrintStream.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/binding/MapperProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="145" selection-start-line="14" selection-start-column="145" selection-end-line="14" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IFileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/FileMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="31" column="94" selection-start-line="31" selection-start-column="94" selection-end-line="31" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IDictionaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/DicMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2299">
+          <caret line="128" column="91" selection-start-line="128" selection-start-column="91" selection-end-line="128" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/DictionaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="134" column="79" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/ICarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="71" column="15" selection-start-line="71" selection-start-column="15" selection-end-line="71" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="189" column="27" lean-forward="true" selection-start-line="189" selection-start-column="27" selection-end-line="189" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IAdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="69" column="57" lean-forward="true" selection-start-line="69" selection-start-column="57" selection-end-line="69" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/AdminUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/AssessUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/exception/ExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/austshop/austshop/AustshopApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/PictureFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/ResultResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/entity/AdminInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/impl/IOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="98" column="11" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/MyConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/md5/PasswordMD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/Utils/JsonWebTokenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/DictionaryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/Myinterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/config/WebMvcConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="44" column="71" lean-forward="true" selection-start-line="44" selection-start-column="71" selection-end-line="44" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/controller/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/service/CarService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/austshop/austshop/mapper/CarMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="107" column="19" selection-start-line="107" selection-start-column="19" selection-end-line="107" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
